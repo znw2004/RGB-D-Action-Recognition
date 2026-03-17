@@ -2,7 +2,7 @@
 
 This repository provides the implementation of the paper *Cross-Modal Transformer for RGB-D Action Recognition*.
 
-The method leverages **RGB, Depth (and optionally Optical Flow) modalities** with a **Transformer architecture** for cross-modal spatiotemporal modeling, achieving robust action recognition in complex indoor environments.
+The method leverages **RGB, Depth modalities** with a **Transformer architecture** for cross-modal spatiotemporal modeling, achieving robust action recognition in complex indoor environments.
 
 ---
 
